@@ -2,7 +2,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on machine learning and algorithms.
 - 🌱 I’m currently learning natural language processing and computer vision.
 - 👯 I’m looking to collaborate on data based products.
 - 💬 Ask me about data science
