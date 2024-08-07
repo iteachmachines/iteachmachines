@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Priyam Kakati, and I love working on AI-related problems!
+I'm Priyam!  
 
 🌱 I’m currently working on building AI models, specifically focusing on deep learning, computer vision, and natural language processing.  
 💼 By day, I work as a Data scientist at Korn Ferry , where we are focused on building AI solutions for different problems and have made significant breakthroughs.  
