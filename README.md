@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI/ML Engineer</b> · Deep Learning · Computer Vision · NLP <br/>
-  I build and deploy machine learning models that work in the real world.
+  I build and deploy machine learning models,generative AI models that work in the real world.
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 ## 🧠 What I'm Working On
 - 🌱 Building AI models across **deep learning, computer vision, and NLP**
 - 🔧 Developing and deploying ML models to production on the cloud
-- 📚 Currently exploring: *(add a topic, e.g. LLMs, RAG, diffusion models)*
+- 📚 Currently exploring: *(LLMs,Inference engineering,finetuning LLMs, diffusion models)*
 
 ## 🛠️ Tech Stack
 
